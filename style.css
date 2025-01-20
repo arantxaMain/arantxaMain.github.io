@@ -9,7 +9,6 @@ body>iframe:first-child {
 body {
     font-family: Helvetica, Arial;
     margin: 0;
-    background-color: #e3f2e3;  /* Verde pino suave */
 }
 
 #app-cover {
@@ -28,12 +27,6 @@ body {
     right: -30px;
     bottom: -30px;
     left: -30px;
-    background-color: #fff;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: 50%;
-    filter: blur(40px);
-    -webkit-filter: blur(40px);
     z-index: 1;
 }
 
